@@ -1,15 +1,21 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'EPFL',
+    degree: 'MSc in Robotics',
+    link: 'https://www.epfl.ch/en/',
+    year: 2021,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'RWTH',
+    degree: 'Exchange year in Germany during my BSc',
+    link: 'https://www.rwth-aachen.de/go/id/a/?lidx=1',
+    year: 2017,
+  },
+  {
+    school: 'EPFL',
+    degree: 'BSc in Mechanical Engineering',
+    link: 'https://www.epfl.ch/en/',
+    year: 2018,
   },
 ];
 
