@@ -5,7 +5,7 @@ const positions = [
     link: 'https://www.biped.ai',
     daterange: 'December 2021 - Present',
     points: [
-      'TODO',
+      'Responsible for the object detection pipeline',
       'TODO',
     ],
   },
