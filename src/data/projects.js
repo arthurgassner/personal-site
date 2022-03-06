@@ -21,6 +21,16 @@ const data = [
       + 'its position. This paper open-sources the first dataset of this kind using '
       + 'the Channel State Information (CSI) to do just that.',
   },
+  {
+    title: 'There is No Plan Bee Without Them',
+    subtitle: 'A data story about bees',
+    link: 'https://indigo-vanguard.github.io/',
+    image: '/images/projects/bee.png',
+    date: '2020-06-01',
+    desc:
+      'Created a data story exploiting bee-related datasets to better understand beekeeper '
+      + 'migratory patterns and honey trades around the world.',
+  },
 ];
 
 export default data;
