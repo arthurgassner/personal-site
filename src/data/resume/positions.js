@@ -6,7 +6,6 @@ const positions = [
     daterange: 'December 2021 - Present',
     points: [
       'Responsible for the object detection pipeline',
-      'TODO',
     ],
   },
   {
