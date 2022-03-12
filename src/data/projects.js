@@ -31,6 +31,17 @@ const data = [
       'Created a data story exploiting bee-related datasets to better understand beekeeper '
       + 'migratory patterns and honey trades around the world.',
   },
+  {
+    title: 'Design, development, and testing of an adaptive drone test rig',
+    subtitle: 'How to make drones fly better',
+    link: '/pdfs/ArthurGASSNER_DroneTestRig.pdf',
+    image: '/images/projects/DroneTestRig.gif',
+    date: '2020-01-01',
+    desc:
+      'We designed and built from scratch a 3D-printed test rig for multicopters, '
+      + 'as well as the tuning software (based on ROS and PX4, written in Python)'
+      + 'to assist the user in the tuning of the drone’s control parameters.',
+  },
 ];
 
 export default data;
