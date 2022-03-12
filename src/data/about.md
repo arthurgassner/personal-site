@@ -9,7 +9,7 @@ I am a software engineer at [biped.ai](https://www.biped.ai) where we build a de
   
 - At 19, I spent a year in Germany at the [RWTH](https://www.rwth-aachen.de). I spent the year trying to hone my German (with some success) and riding through Europe on trains.
 
-- At 21, I started a [MSc in Robotics](https://www.epfl.ch/education/master/programs/robotics/) at the EPFL. Gearing myself more and more towards software, I made some cool projects with some even cooler people during my time there (you can check out some of it [here](TODO))
+- At 21, I started a [MSc in Robotics](https://www.epfl.ch/education/master/programs/robotics/) at the EPFL. Gearing myself more and more towards software, I made some cool projects with some even cooler people during my time there (some of which can be found [here](/projects))
 
 - At 22, I interned at Swisscom working on indoor localisation using the LTE network and deep learning. This led to [a paper](https://arxiv.org/abs/2104.07963). I liked it so much that I stayed with them to write my Master Thesis.
 

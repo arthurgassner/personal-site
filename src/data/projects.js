@@ -42,6 +42,15 @@ const data = [
       + 'as well as the tuning software (based on ROS and PX4, written in Python)'
       + 'to assist the user in the tuning of the drone’s control parameters.',
   },
+  {
+    title: 'Towards a Scalable Behaviour-Based Distributed Control Algorithm for Groups of Mobile Robots',
+    subtitle: 'How to make wheeled-robots swarm better',
+    link: '/pdfs/DIS.pdf',
+    image: '/images/projects/DIS.png',
+    date: '2020-01-01',
+    desc:
+      'We developed effective distributed and reactive controllers for small groups of mobile robots with substantial hardware limitations.',
+  },
 ];
 
 export default data;
