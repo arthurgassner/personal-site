@@ -1,7 +1,7 @@
 
 # Intro
 
-I am a software engineer at [biped.ai](https://www.biped.ai) where we build a device assisting visually-impaired people navigate their surroundings. I like to build things, be it software, robots or relationships. If you think I can be helpful to you or would like to meet me, please feel free to reach out.
+I am a software engineer at [biped.ai](https://www.biped.ai) where we build a device assisting visually-impaired people navigate their surroundings. I like to build things, be it software, robots or relationships. If you think I can be helpful to you or you would like to meet me, please feel free to reach out.
 
 # Some history
 
@@ -21,5 +21,5 @@ I am a software engineer at [biped.ai](https://www.biped.ai) where we build a de
 - Jokes
 - Spicy food
 - Plants
-- Framing things I find funny (LINK TO PILEA DIPLOMA SOMEHOW)
+- Framing things I find funny
 - [Hip-hop music](TODOSPOTIFYLINK)
