@@ -9,21 +9,11 @@ const validateText = (text) => {
 };
 
 const messages = [
-  'hi',
-  'hello',
-  'hola',
-  'you-can-email-me-at-literally-anything! Really',
-  'well, not anything. But most things',
-  'like-this',
-  'or-this',
-  'but not this :(  ',
-  'you.can.also.email.me.with.specific.topics.like',
-  'just-saying-hi',
-  'please-work-for-us',
-  'help',
-  'admin',
-  'or-I-really-like-your-website',
-  'thanks',
+  'arth.gassner',
+  'no.not.this.email.address',
+  'this.one.doesnt.work.either',
+  'really.only.at.arth.gassner',
+  'arth.gassner',
 ];
 
 const useInterval = (callback, delay) => {
@@ -40,7 +30,7 @@ const useInterval = (callback, delay) => {
       }, delay);
       return () => clearInterval(id);
     }
-    return () => {}; // pass linter
+    return () => { }; // pass linter
   }, [delay]);
 };
 
@@ -78,7 +68,7 @@ const EmailLink = () => {
     >
       <a href={validateText(message) ? `mailto:${message}@mldangelo.com` : ''}>
         <span>{message}</span>
-        <span>@mldangelo.com</span>
+        <span>@gmail.com</span>
       </a>
     </div>
   );
