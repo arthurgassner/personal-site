@@ -25,7 +25,7 @@ const positions = [
     daterange: 'September 2020 - February 2021',
     points: [
       'Developed an indoor localisation method using the 4G/LTE network and CNNs (pytorch).',
-      'Wrote a paper about it: https://arxiv.org/abs/2104.07963',
+      'Wrote a paper about it',
     ],
   },
   {
