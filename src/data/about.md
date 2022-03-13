@@ -21,5 +21,5 @@ I am a software engineer at [biped.ai](https://www.biped.ai) where we build a de
 - Jokes
 - Spicy food
 - Plants
-- Framing things I find funny
+- [Framing things I find funny](/images/pilea.jpg)
 - [Hip-hop music](https://open.spotify.com/track/4wJNK2sibEWAuwkdw8YJwR?si=dlQ8ND4aR-C2EKoxXIodYA&utm_source=copy-link)
