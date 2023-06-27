@@ -1,11 +1,16 @@
 const positions = [
   {
     company: 'biped.ai',
-    position: 'Software Engineer',
+    position: 'Machine Learning Engineer',
     link: 'https://www.biped.ai',
-    daterange: 'December 2021 - Present',
+    daterange: 'December 2021 - April 2023',
     points: [
-      'Responsible for the object detection pipeline',
+      'Responsible for the computer vision pipeline of the biped software',
+      'Developed a 3D obstacle detection system running on embedded hardware',
+      'Developed a ground detection system running on embedded hardware',
+      'Responsible for optimising, maintaining and deploying custom-trained image detection models',
+      'Helped bring the biped device from prototype to market',
+      'Assembled and tested hardware',
     ],
   },
   {
