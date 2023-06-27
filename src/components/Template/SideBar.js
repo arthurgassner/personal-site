@@ -19,8 +19,8 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Arthur. I like building things, solving problems and laughing loudly.
-        I am an <a href="https://www.epfl.ch/en/">EPFL</a> graduate and software engineer at <a href="https://www.biped.ai/">biped.ai</a>.
+      <p>Hi there, I&apos;m Arthur. I like building things, solving problems and laughing loudly.
+        I am an <a href="https://www.epfl.ch/en/">EPFL</a> graduate and machine learning engineer.
       </p>
       <ul className="actions">
         <li>
