@@ -8,7 +8,7 @@ const Index = () => (
     description="Arthur Gassner personal website. Lausanne-based EPFL graduate, Software engineer @ biped.ai"
   >
     <article className="post" id="index">
-      <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
+      <p>Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
         or you can check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
