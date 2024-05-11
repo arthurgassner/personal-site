@@ -38,7 +38,7 @@ Your web browser should automatically open to `<ip>:<port>:<path>` default: [htt
 
 ## Deploying
 
-### Deploying to Github Pages
+### Deploying to Github Pages for the first time
 
 1. Modify the environmental variables and git remote url in [`.github/workflows/github-pages.yml`](.github/workflows/github-pages.yml).
 2. Modify `homepage` in `package.json` to point to where you plan to host your site. If you do not plan on using a custom domain name, it should look like `https://[your-gh-username].github.io/[repository-name - default:personal-site]/`
@@ -48,7 +48,11 @@ Make a commit to `main` and push your changes. That's it.
 
 ### Update the website
 
-1. Run `npm run deploy` on the `main` branch
+1. Make changes to the code
+2. Change everything is working with `npm start`
+3. Push to `main`
+> [!NOTE]
+> The GitHub Action should automatically update the website, within ~10min
 
 ## Acknowledgements
 
