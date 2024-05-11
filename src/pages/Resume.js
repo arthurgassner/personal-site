@@ -16,8 +16,8 @@ import { skills, categories } from '../data/resume/skills';
 
 // NOTE: sections are displayed in order defined.
 const sections = {
-  Education: () => <Education data={degrees} />,
   Experience: () => <Experience data={work} />,
+  Education: () => <Education data={degrees} />,
   Skills: () => <Skills skills={skills} categories={categories} />,
   Courses: () => <Courses data={courses} />,
   References: () => <References />,
@@ -26,7 +26,7 @@ const sections = {
 const Resume = () => (
   <Main
     title="Resume"
-    description="Michael D'Angelo's Resume. Smile Identity, Arthena, Matroid, YC, Skeptical Investments, Stanford ICME, Planet, and Facebook."
+    description="Arthur Gassner's Resume. EPFL, Synotis, biped.ai, Swisscom, Intel."
   >
     <article className="post" id="resume">
       <header>

@@ -1,47 +1,62 @@
-// TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Applied Machine Learning Days (AMLD) -- Keynote Session',
+    subtitle: 'biped | Giving vision with sounds',
+    link: 'https://www.youtube.com/watch?v=dmYrfcrOVF8',
+    image: '/images/projects/amld-optimized.png',
+    date: '2022-03-26',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'I had the chance to present biped.ai at the Applied Machine Learning Days (AMLD) in front of more than 2000 people, as part of a startup spotlight led by Innovaud.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'OpenCSI: An Open-Source Dataset for Indoor Localization Using CSI-Based Fingerprinting',
+    subtitle: 'The open-sourcing of a dataset used for indoor localization using the LTE network',
+    link: 'https://arxiv.org/abs/2104.07963',
+    image: '/images/projects/openCSI.png',
+    date: '2021-04-16',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Using information extracted from the wireless signal of an LTE tower, one can try to estimate '
+      + 'its position. This paper open-sources the first dataset of this kind using '
+      + 'the Channel State Information (CSI) to do just that.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'There is No Plan Bee Without Them',
+    subtitle: 'A data story about bees',
+    link: 'https://indigo-vanguard.github.io/',
+    image: '/images/projects/bee.png',
+    date: '2020-06-01',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Created a data story exploiting bee-related datasets to better understand beekeeper '
+      + 'migratory patterns and honey trades around the world.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'Design, development, and testing of an adaptive drone test rig',
+    subtitle: 'How to make drones fly better',
+    link: '/pdfs/ArthurGASSNER_DroneTestRig.pdf',
+    image: '/images/projects/DroneTestRig-optimized.gif',
+    date: '2020-01-01',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'We designed and built from scratch a 3D-printed test rig for multicopters, '
+      + 'as well as the tuning software (based on ROS and PX4, written in Python)'
+      + 'to assist the user in the tuning of the drone’s control parameters.',
+  },
+  {
+    title: 'Towards a Scalable Behaviour-Based Distributed Control Algorithm for Groups of Mobile Robots',
+    subtitle: 'How to make wheeled-robots swarm better',
+    link: '/pdfs/DIS.pdf',
+    image: '/images/projects/DIS.png',
+    date: '2020-01-01',
+    desc:
+      'We developed effective distributed and reactive controllers for small groups of mobile robots with substantial hardware limitations.',
+  },
+  {
+    title: 'Predict the share price one day after an IPO',
+    subtitle: 'IPO: Under or overvalued?',
+    link: '/pdfs/DSFB-Project.pdf',
+    image: '/images/projects/DSFB.png',
+    date: '2020-01-01',
+    desc:
+      'We assessed various machine learning methods to predict whether a stock was undervalued or overvalued following an IPO.',
   },
 ];
 
