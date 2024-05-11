@@ -17,9 +17,9 @@ const work = [
     position: 'Data Scientist',
     url: 'https://www.synotis.ch',
     startDate: '2024-02-01',
-    summary: 'TODO',
+    summary: 'Synotis is a consultancy specialized in data, business analysis and governance.',
     highlights: [
-      'TODO',
+      'Help customers solve real-world problems through machine learning',
     ],
   },
   {
@@ -28,7 +28,7 @@ const work = [
     url: 'https://www.biped.ai',
     startDate: '2021-12-01',
     endDate: '2023-04-30',
-    summary: 'TODO',
+    summary: 'biped.ai is building a device assisting visually-impaired people navigate their surroundings.',
     highlights: [
       'Responsible for the computer vision pipeline of the biped software (Python with NumPy, OpenCV, pandas, scikit-learn, open3d)',
       'Developed a 3D obstacle detection system running in real time on embedded hardware with 99% accuracy within 2m of the user',
@@ -44,7 +44,6 @@ const work = [
     url: 'https://www.swisscom.ch/en/about/innovation.html',
     startDate: '2020-09-01',
     endDate: '2021-03-31',
-    summary: 'TODO',
     highlights: [
       'Developed a customer embedding to predict customer satisfaction under dataset shift, using different methods (random forests, deep learning, MLPs, autoencoders, semi - supervised learning, ...) and different libraries (pandas, dask, pytorch, numpy, scikit-learn).',
     ],
@@ -55,7 +54,6 @@ const work = [
     url: 'https://www.swisscom.ch/en/about/innovation.html',
     startDate: '2020-02-01',
     endDate: '2020-08-31',
-    summary: 'TODO',
     highlights: [
       'Developed an indoor localisation method using the 4G/LTE network and CNNs (pytorch).',
       'Wrote a paper about it',
@@ -67,7 +65,6 @@ const work = [
     url: 'https://www.intel.com',
     startDate: '2018-03-01',
     endDate: '2018-06-30',
-    summary: 'TODO',
     highlights: [
       'Developed an Electron app (with ES6 and Vue.js) for database management, visualization and analysis.',
       'Developed software in Python to test the integrity of a REST API.',
