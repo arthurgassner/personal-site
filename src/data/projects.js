@@ -1,5 +1,14 @@
 const data = [
   {
+    title: 'The Vertical -- Cycling Switzerland End-to-End',
+    subtitle: 'Building a cycling challenge website.',
+    link: 'https://swisscycling-vertical.arthurgassner.ch',
+    image: '/images/projects/swisscycling-vertical.png',
+    date: '2024-11-03',
+    desc:
+      'I built a website challenging people to cycle across Switzerland -- end-to-end. Both the frontend and backend are open-sourced, with the backend hosted on a VPS.',
+  },
+  {
     title: 'Applied Machine Learning Days (AMLD) -- Keynote Session',
     subtitle: 'biped | Giving vision with sounds',
     link: 'https://www.youtube.com/watch?v=dmYrfcrOVF8',
