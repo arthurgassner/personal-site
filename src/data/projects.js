@@ -7,7 +7,7 @@ const data = [
     date: '2024-11-17',
     desc:
       'I built and deployed an energy consumption forecasting tool, using this work to talk in depth on the challenges encountered when building ML solutions.'
-      + 'The result is a live dashboard, updated every hour, and a detailed walkthrough of the ML solution developement stages, from problem understanding to deployment.' 
+      + 'The result is a live dashboard, updated every hour, and a detailed walkthrough of the ML solution developement stages, from problem understanding to deployment.'
       + 'Both the frontend and backend are open-sourced.',
   },
   {
