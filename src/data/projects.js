@@ -1,15 +1,17 @@
 const data = [
   {
-    title: 'Swiss Energy Forecast -- an end-to-end ML solution',
+    title: 'Swiss Energy Forecast | an end-to-end ML solution',
     subtitle: 'Showcasing an end-to-end machine learning project in the energy industry.',
     link: 'https://swissenergy.arthurgassner.ch',
     image: '/images/projects/swissenergy.png',
     date: '2024-11-17',
     desc:
-      'I wrote a detailed write-up on the challenges one encounters when building ML solutions, from problem understanding to deployment. Both the frontend and backend are open-sourced.',
+      'I built and deployed a energy consumption forecasting tool, using this work to talk in depth on the challenges encountered when building ML solutions.'
+      + 'The result is a live dashboard, updated every hour, and a detailed walkthrough of the ML solution developement stages, from problem understanding to deployment.' 
+      + 'Both the frontend and backend are open-sourced.',
   },
   {
-    title: 'The Vertical -- Cycling Switzerland End-to-End',
+    title: 'The Vertical | Cycling Switzerland End-to-End',
     subtitle: 'Building a cycling challenge website.',
     link: 'https://swisscycling-vertical.arthurgassner.ch',
     image: '/images/projects/swisscycling-vertical.png',
@@ -18,7 +20,7 @@ const data = [
       'I built a website challenging people to cycle across Switzerland -- end-to-end. Both the frontend and backend are open-sourced, with the backend hosted on a VPS.',
   },
   {
-    title: 'Applied Machine Learning Days (AMLD) -- Keynote Session',
+    title: 'Applied Machine Learning Days (AMLD) | Keynote Session',
     subtitle: 'biped | Giving vision with sounds',
     link: 'https://www.youtube.com/watch?v=dmYrfcrOVF8',
     image: '/images/projects/amld-optimized.png',
@@ -38,7 +40,7 @@ const data = [
       + 'the Channel State Information (CSI) to do just that.',
   },
   {
-    title: 'There is No Plan Bee Without Them',
+    title: 'There is No Plan Bee Without Them | A Data Story',
     subtitle: 'A data story about bees',
     link: 'https://indigo-vanguard.github.io/',
     image: '/images/projects/bee.png',
