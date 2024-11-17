@@ -6,7 +6,7 @@ const data = [
     image: '/images/projects/swissenergy.png',
     date: '2024-11-17',
     desc:
-      'I built a website covering the challengs one encounters when building ML solutions, from problem understanding to deployment. Both the frontend and backend are open-sourced.',
+      'I wrote a detailed write-up on the challenges one encounters when building ML solutions, from problem understanding to deployment. Both the frontend and backend are open-sourced.',
   },
   {
     title: 'The Vertical -- Cycling Switzerland End-to-End',
