@@ -1,5 +1,14 @@
 const data = [
   {
+    title: 'Swiss Energy Forecast -- an end-to-end ML solution',
+    subtitle: 'Showcasing an end-to-end machine learning project in the energy industry.',
+    link: 'https://swissenergy.arthurgassner.ch',
+    image: '/images/projects/swissenergy.png',
+    date: '2024-11-17',
+    desc:
+      'I built a website covering the challengs one encounters when building ML solutions, from problem understanding to deployment. Both the frontend and backend are open-sourced.',
+  },
+  {
     title: 'The Vertical -- Cycling Switzerland End-to-End',
     subtitle: 'Building a cycling challenge website.',
     link: 'https://swisscycling-vertical.arthurgassner.ch',
