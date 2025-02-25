@@ -49,7 +49,7 @@ Make a commit to `main` and push your changes. That's it.
 ### Update the website
 
 1. Make changes to the code
-2. Change everything is working with `npm start`
+2. Check everything is working with `npm start`
 3. Push to `main`
 > [!NOTE]
 > The GitHub Action should automatically update the website, within ~10min
