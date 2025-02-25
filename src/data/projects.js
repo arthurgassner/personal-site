@@ -2,7 +2,7 @@ const data = [
   {
     title: 'Swiss Energy Forecast | an end-to-end ML solution',
     subtitle: 'Showcasing an end-to-end machine learning project in the energy industry.',
-    link: 'https://swissenergy.arthurgassner.ch',
+    link: 'https://swissenergyforecast.com',
     image: '/images/projects/swissenergy.png',
     date: '2024-11-17',
     desc:
