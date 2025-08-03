@@ -6,7 +6,7 @@ const data = [
     image: '/images/projects/literature-clock.png',
     date: '2024-11-17',
     desc:
-      'I built a literature clock, randomlyy selecting a literary quote and displaying it on an e-ink screen.'
+      'I built a literature clock, randomly selecting a literary quote and displaying it on an e-ink screen.'
       + 'The software is written in Python, powered by a Raspberry Pi Zero 2W, and the enclosing is 3D printed, '
       + 'Both the frontend and backend are open-sourced.',
   },
