@@ -9,12 +9,27 @@ const skills = [
   },
   {
     title: 'Data Mining',
-    competency: 3,
+    competency: 5,
     category: ['Data Science'],
   },
   {
-    title: 'Git/GitHub',
+    title: 'Linux',
     competency: 4,
+    category: ['ML Engineering'],
+  },
+  {
+    title: 'Docker',
+    competency: 4,
+    category: ['ML Engineering'],
+  },
+  {
+    title: 'FastAPI',
+    competency: 5,
+    category: ['ML Engineering'],
+  },
+  {
+    title: 'Git/GitHub',
+    competency: 5,
     category: ['Tools'],
   },
   {
@@ -24,7 +39,7 @@ const skills = [
   },
   {
     title: 'Deep Learning',
-    competency: 4,
+    competency: 5,
     category: ['Data Science', 'Python'],
   },
   {
@@ -59,7 +74,7 @@ const skills = [
   },
   {
     title: 'Data Visualization',
-    competency: 4,
+    competency: 5,
     category: ['Data Science', 'Javascript'],
   },
   {

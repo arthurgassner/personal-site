@@ -1,8 +1,8 @@
 const data = [
   {
-    title: 'Literature Clock | Literature clock from scratch',
+    title: 'Time Teller | Telling time with quotes',
     subtitle: 'Building a literature clock with a Raspberry Pi, an e-ink screen and Python.',
-    link: 'https://literature-clock.arthurgassner.ch',
+    link: 'https://time-teller.arthurgassner.ch',
     image: '/images/projects/literature-clock.png',
     date: '2024-11-17',
     desc:
