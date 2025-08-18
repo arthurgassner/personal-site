@@ -14,8 +14,7 @@ import work from '@/data/resume/work';
 
 export const metadata: Metadata = {
   title: 'Resume',
-  description:
-    "Arthur Gassner's Resume. Machine Learning, Synotis, biped.ai, Swisscom, EPFL.",
+  description: "Arthur Gassner's Resume. Machine Learning, Synotis, biped.ai, Swisscom, EPFL.",
 };
 
 const sections = [

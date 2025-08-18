@@ -30,7 +30,8 @@ const work: Position[] = [
     url: 'https://www.biped.ai',
     startDate: '2021-12-01',
     endDate: '2023-04-30',
-    summary: 'biped.ai is building a device assisting visually-impaired people navigate their surroundings.',
+    summary:
+      'biped.ai is building a device assisting visually-impaired people navigate their surroundings.',
     highlights: [
       'Responsible for the computer vision pipeline of the biped software (Python with NumPy, OpenCV, pandas, scikit-learn, open3d)',
       'Developed a 3D obstacle detection system running in real time on embedded hardware with 99% accuracy within 2m of the user',

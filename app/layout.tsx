@@ -23,18 +23,12 @@ const raleway = Raleway({
 
 export const metadata: Metadata = {
   title: {
-    default: "Arthur Gassner",
-    template: "%s | Arthur Gassner",
+    default: 'Arthur Gassner',
+    template: '%s | Arthur Gassner',
   },
   description:
     "Arthur Gassner's personal website. Machine learning engineer, and curious about everything.",
-  keywords: [
-    "Arthur Gassner",
-    'data scientist',
-    'machine learning',
-    'engineer',
-    'portfolio',
-  ],
+  keywords: ['Arthur Gassner', 'data scientist', 'machine learning', 'engineer', 'portfolio'],
   authors: [{ name: "Michael D'Angelo" }],
   creator: "Michael D'Angelo",
   metadataBase: new URL('https://mldangelo.com'),

@@ -6,8 +6,7 @@ import Link from 'next/link';
 import PageWrapper from './components/PageWrapper';
 
 export const metadata: Metadata = {
-  description:
-    "Arthur Gassner is a Machine Learning Engineer, enthusiastic about life.",
+  description: 'Arthur Gassner is a Machine Learning Engineer, enthusiastic about life.',
 };
 
 export default function HomePage() {
