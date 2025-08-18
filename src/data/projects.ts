@@ -12,7 +12,7 @@ const data: Project[] = [
     title: 'Time Teller | Telling time with quotes',
     subtitle: 'Building a literature clock with a Raspberry Pi, an e-ink screen and Python.',
     link: 'https://time-teller.arthurgassner.ch',
-    image: '/images/projects/literature-clock.png',
+    image: '/images/projects/time-teller.jpg',
     date: '2024-11-17',
     desc:
       'I built a literature clock, randomly selecting a literary quote and displaying it on an e-ink screen.'
@@ -23,7 +23,7 @@ const data: Project[] = [
     title: 'Swiss Energy Forecast | end-to-end ML solution',
     subtitle: 'Showcasing an end-to-end machine learning project in the energy industry.',
     link: 'https://swissenergyforecast.com',
-    image: '/images/projects/swissenergy.png',
+    image: '/images/projects/swissenergy.jpg',
     date: '2024-11-17',
     desc:
       'I built and deployed an energy consumption forecasting tool, using this work to talk in depth on the challenges encountered when building ML solutions.'
@@ -34,7 +34,7 @@ const data: Project[] = [
     title: 'The Vertical | Cycling Switzerland End-to-End',
     subtitle: 'Building a cycling challenge website.',
     link: 'https://swisscycling-vertical.arthurgassner.ch',
-    image: '/images/projects/swisscycling-vertical.png',
+    image: '/images/projects/swisscycling-vertical.jpg',
     date: '2024-11-03',
     desc:
       'I built a website challenging people to cycle across Switzerland -- end-to-end. Both the frontend and backend are open-sourced, with the backend hosted on a VPS.',
