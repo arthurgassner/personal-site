@@ -10,7 +10,7 @@ import PageWrapper from '../components/PageWrapper';
 
 export const metadata: Metadata = {
   title: 'Stats',
-  description: 'Some statistics about Arthur Gassner and arthurgassner.com',
+  description: 'Some statistics about Arthur Gassner and arthurgassner.ch',
 };
 
 export default function StatsPage() {
