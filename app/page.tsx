@@ -7,7 +7,7 @@ import PageWrapper from './components/PageWrapper';
 
 export const metadata: Metadata = {
   description:
-    "Michael D'Angelo is a data scientist, machine learning engineer, and full-stack engineer.",
+    "Arthur Gassner is a Machine Learning Engineer, enthusiastic about life.",
 };
 
 export default function HomePage() {
@@ -17,7 +17,7 @@ export default function HomePage() {
         <header>
           <div className="title">
             <h2>
-              <Link href="/about">About this site</Link>
+              <Link href="/">Welcome!</Link>
             </h2>
             <p>
               A beautiful, responsive, statically-generated, react application written with modern
@@ -34,7 +34,7 @@ export default function HomePage() {
         </p>
         <p>
           {' '}
-          Source available <a href="https://github.com/mldangelo/personal-site">here</a>.
+          Source available <a href="https://github.com/arthurgassner/personal-site">here</a>.
         </p>
       </article>
     </PageWrapper>

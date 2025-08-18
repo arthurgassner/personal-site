@@ -23,16 +23,15 @@ const raleway = Raleway({
 
 export const metadata: Metadata = {
   title: {
-    default: "Michael D'Angelo",
-    template: "%s | Michael D'Angelo",
+    default: "Arthur Gassner",
+    template: "%s | Arthur Gassner",
   },
   description:
-    "Michael D'Angelo's personal website. Data scientist, machine learning engineer, and full-stack developer.",
+    "Arthur Gassner's personal website. Machine learning engineer, and curious about everything.",
   keywords: [
-    "Michael D'Angelo",
+    "Arthur Gassner",
     'data scientist',
     'machine learning',
-    'full-stack developer',
     'engineer',
     'portfolio',
   ],
