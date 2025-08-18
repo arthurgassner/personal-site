@@ -28,7 +28,7 @@ const SideBar: React.FC = () => {
       <section className="blurb">
         <h2>About</h2>
         <p>
-          Hi, I&apos;m Arthur. I am an ML Engineer, <a href="https://www.epfl.ch/en">EPFL</a>{' '}
+          Hi, I&apos;m Arthur. I&apos;m an ML Engineer, <a href="https://www.epfl.ch/en">EPFL</a>{' '}
           graduate and passionate about solving problems through data.
         </p>
         <ul className="actions">

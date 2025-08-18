@@ -15,9 +15,9 @@ I am a machine learning engineer who loves to build things, be it software, robo
 
 - At 23, I wrote my Master Thesis at Swisscom -- on predictive machine learning -- under the supervision of Claudiu Musat.
 
-- At 24, I started my position as a machine learning engineer at [biped.ai](https://www.biped.ai), an early-stage startup building a device assisting visually-impaired people navigate their surroundings. I was responsible for the perception pipeline, and together we brought the product to market.
+- At 24, I started my position as a Machine Learning Engineer at [biped.ai](https://www.biped.ai), an early-stage startup building a device assisting visually-impaired people navigate their surroundings. I was responsible for the perception pipeline, and together we brought the product to market.
 
-- At 26, I started working as a Data Scientist at Synotis, a data-focused consultancy, where I help customers solve real-world problems through machine learning.
+- At 26, I started working as a Machine Learning Engineer at Synotis, a data-focused consultancy, where I help customers solve real-world problems through machine learning.
 
 # Things I like
 

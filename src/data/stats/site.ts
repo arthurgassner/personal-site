@@ -8,19 +8,9 @@ import { StatData } from '../../components/Stats/types';
  */
 const data: StatData[] = [
   {
-    label: 'Stars this repository has on github',
-    key: 'stargazers_count',
-    link: 'https://github.com/mldangelo/personal-site/stargazers',
-  },
-  {
-    label: 'Number of people watching this repository',
-    key: 'subscribers_count',
-    link: 'https://github.com/mldangelo/personal-site/stargazers',
-  },
-  {
     label: 'Number of forks',
     key: 'forks',
-    link: 'https://github.com/mldangelo/personal-site/network',
+    link: 'https://github.com/arthurgassner/personal-site/network',
   },
   {
     label: 'Number of spoons',
@@ -33,12 +23,12 @@ const data: StatData[] = [
   {
     label: 'Open github issues',
     key: 'open_issues_count',
-    link: 'https://github.com/mldangelo/personal-site/issues',
+    link: 'https://github.com/arthurgassner/personal-site/issues',
   },
   {
     label: 'Last updated at',
     key: 'pushed_at',
-    link: 'https://github.com/mldangelo/personal-site/commits',
+    link: 'https://github.com/arthurgassner/personal-site/commits',
     format: (x: unknown) => dayjs(x as string).format('MMMM DD, YYYY'),
   },
   {
@@ -47,7 +37,7 @@ const data: StatData[] = [
     xargs -I file cat file | wc -l */
     label: 'Lines of TypeScript powering this website',
     value: '2150',
-    link: 'https://github.com/mldangelo/personal-site/graphs/contributors',
+    link: 'https://github.com/arthurgassner/personal-site/graphs/contributors',
   },
 ];
 
