@@ -9,47 +9,94 @@ export interface Project {
 
 const data: Project[] = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Time Teller | Telling time with quotes',
+    subtitle: 'Building a literature clock with a Raspberry Pi, an e-ink screen and Python.',
+    link: 'https://time-teller.arthurgassner.ch',
+    image: '/images/projects/literature-clock.png',
+    date: '2024-11-17',
     desc:
-      'Built for a social impact hackathon. ' +
-      'NearestDollar connected to your bank accounts, credit cards, ' +
-      'or debit cards and rounded up your purchases to donate the balance to ' +
-      'the charity of your choice.',
+      'I built a literature clock, randomly selecting a literary quote and displaying it on an e-ink screen.'
+      + 'The software is written in Python, powered by a Raspberry Pi Zero 2W, and the enclosing is 3D printed, '
+      + 'Both the frontend and backend are open-sourced.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'Swiss Energy Forecast | end-to-end ML solution',
+    subtitle: 'Showcasing an end-to-end machine learning project in the energy industry.',
+    link: 'https://swissenergyforecast.com',
+    image: '/images/projects/swissenergy.png',
+    date: '2024-11-17',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution ' +
-      'for crops. Harvest was designed to catch irrigation leaks, overwatering, ' +
-      'and nutrient deficiencies at an affordable price for the developing world.',
+      'I built and deployed an energy consumption forecasting tool, using this work to talk in depth on the challenges encountered when building ML solutions.'
+      + 'The result is a live dashboard, updated every hour, and a detailed walkthrough of the ML solution developement stages, from problem understanding to deployment.'
+      + 'Both the frontend and backend are open-sourced.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'The Vertical | Cycling Switzerland End-to-End',
+    subtitle: 'Building a cycling challenge website.',
+    link: 'https://swisscycling-vertical.arthurgassner.ch',
+    image: '/images/projects/swisscycling-vertical.png',
+    date: '2024-11-03',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras ' +
-      'and gps transponder. Resulting photos were published in a coffee table book. ' +
-      'You can email me for a copy.',
+      'I built a website challenging people to cycle across Switzerland -- end-to-end. Both the frontend and backend are open-sourced, with the backend hosted on a VPS.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'Applied Machine Learning Days (AMLD) | Keynote Session',
+    subtitle: 'biped | Giving vision with sounds',
+    link: 'https://www.youtube.com/watch?v=dmYrfcrOVF8',
+    image: '/images/projects/amld-optimized.png',
+    date: '2022-03-26',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. ' +
-      'Over 60,000 cats were classified before server bills made the project too expensive ' +
-      'to continue hosting.',
+      'I had the chance to present biped.ai at the Applied Machine Learning Days (AMLD) in front of more than 2000 people, as part of a startup spotlight led by Innovaud.',
+  },
+  {
+    title: 'OpenCSI: An Open-Source Dataset for Indoor Localization Using CSI-Based Fingerprinting',
+    subtitle: 'The open-sourcing of a dataset used for indoor localization using the LTE network',
+    link: 'https://arxiv.org/abs/2104.07963',
+    image: '/images/projects/openCSI.png',
+    date: '2021-04-16',
+    desc:
+      'Using information extracted from the wireless signal of an LTE tower, one can try to estimate '
+      + 'its position. This paper open-sources the first dataset of this kind using '
+      + 'the Channel State Information (CSI) to do just that.',
+  },
+  {
+    title: 'There is No Plan Bee Without Them | A Data Story',
+    subtitle: 'A data story about bees',
+    link: 'https://indigo-vanguard.github.io/',
+    image: '/images/projects/bee.png',
+    date: '2020-06-01',
+    desc:
+      'Created a data story exploiting bee-related datasets to better understand beekeeper '
+      + 'migratory patterns and honey trades around the world.',
+  },
+  {
+    title: 'Design, development, and testing of an adaptive drone test rig',
+    subtitle: 'How to make drones fly better',
+    link: '/pdfs/ArthurGASSNER_DroneTestRig.pdf',
+    image: '/images/projects/DroneTestRig-optimized.gif',
+    date: '2020-01-01',
+    desc:
+      'We designed and built from scratch a 3D-printed test rig for multicopters, '
+      + 'as well as the tuning software (based on ROS and PX4, written in Python)'
+      + 'to assist the user in the tuning of the drone’s control parameters.',
+  },
+  {
+    title: 'Towards a Scalable Behaviour-Based Distributed Control Algorithm for Groups of Mobile Robots',
+    subtitle: 'How to make wheeled-robots swarm better',
+    link: '/pdfs/DIS.pdf',
+    image: '/images/projects/DIS.png',
+    date: '2020-01-01',
+    desc:
+      'We developed effective distributed and reactive controllers for small groups of mobile robots with substantial hardware limitations.',
+  },
+  {
+    title: 'Predict the share price one day after an IPO',
+    subtitle: 'IPO: Under or overvalued?',
+    link: '/pdfs/DSFB-Project.pdf',
+    image: '/images/projects/DSFB.png',
+    date: '2020-01-01',
+    desc:
+      'We assessed various machine learning methods to predict whether a stock was undervalued or overvalued following an IPO.',
   },
 ];
 
