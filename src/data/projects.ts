@@ -11,7 +11,7 @@ const data: Project[] = [
   {
     title: 'Time Teller | Telling time with quotes',
     subtitle: 'Building a literature clock with a Raspberry Pi, an e-ink screen and Python.',
-    link: 'https://time-teller.arthurgassner.ch',
+    link: 'https://timeteller.arthurgassner.com',
     image: '/images/projects/time-teller.jpg',
     date: '2024-11-17',
     desc:
@@ -33,7 +33,7 @@ const data: Project[] = [
   {
     title: 'The Vertical | Cycling Switzerland End-to-End',
     subtitle: 'Building a cycling challenge website.',
-    link: 'https://swisscycling-vertical.arthurgassner.ch',
+    link: 'https://swisscyclingvertical.arthurgassner.com',
     image: '/images/projects/swisscycling-vertical.jpg',
     date: '2024-11-03',
     desc: 'I built a website challenging people to cycle across Switzerland -- end-to-end. Both the frontend and backend are open-sourced, with the backend hosted on a VPS.',
